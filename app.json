@@ -1,9 +1,9 @@
 {
-    "name": "PROFESSOR-BOT",
+    "name": "ANGLE ONE 2.2",
     "description": "The Telegram Autofilter Bot",
-    "logo": "https://graph.org/file/b7e8484f6395a180b6380.jpg",
-    "keywords": ["Telegram", "auto-filter", "MrMKN"],
-    "repository": "https://github.com/MrMKN/PROFESSOR-BOT",
+    "logo": "https://graph.org/file/f8c26a2bda2c9ca9c6871.jpg",
+    "keywords": ["Telegram", "auto-filter", "VANSH"],
+    "repository": "@VIP_BRO10",
     "env": {
         "WEBHOOK": {
             "description": "True/False if your server is web support required? the value is True else False",
