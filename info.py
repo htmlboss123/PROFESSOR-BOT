@@ -49,7 +49,7 @@ WELCOM_TEXT = environ.get("WELCOM_TEXT", script.WELCOM_TEXT)
 PMFILTER = is_enabled(environ.get('PMFILTER', "True"), True)
 G_FILTER = is_enabled(environ.get("G_FILTER", "True"), True)
 BUTTON_LOCK = is_enabled(environ.get("BUTTON_LOCK", "True"), True)
-RemoveBG_API = environ.get("RemoveBG_API", "")
+RemoveBG_API = environ.get("RemoveBG_API", "1NrWSwoFzrAH2gQbxgCaEBBj")
 
 # url shortner
 SHORT_URL = environ.get("https://shrtfly.com/api")
@@ -58,7 +58,7 @@ SHORT_API = environ.get("ede8f14b862bdf0f246cc4c8f0672b1d")
 # Others
 IMDB_DELET_TIME = int(environ.get('IMDB_DELET_TIME', "300"))
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', 0))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'MKN_BOTZ_DISCUSSION_GROUP')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'moviekorner_1')
 P_TTI_SHOW_OFF = is_enabled(environ.get('P_TTI_SHOW_OFF', "True"), True)
 PM_IMDB = is_enabled(environ.get('PM_IMDB', "True"), True)
 IMDB = is_enabled(environ.get('IMDB', "True"), True)
